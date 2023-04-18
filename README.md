@@ -1,2 +1,3 @@
-# .github
-Assets shared between my repositories.
+# Shared Assets
+
+These are various assets shared between my repositories.
